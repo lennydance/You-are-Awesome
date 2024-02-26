@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		546352042B86628800C259D0 /* You Are Awesom and Great.swift in Sources */ = {isa = PBXBuildFile; fileRef = 546352032B86628800C259D0 /* You Are Awesom and Great.swift */; };
 		54B9275B2B8333B200B53A58 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B9275A2B8333B200B53A58 /* AppDelegate.swift */; };
 		54B9275D2B8333B200B53A58 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B9275C2B8333B200B53A58 /* SceneDelegate.swift */; };
 		54B9275F2B8333B200B53A58 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B9275E2B8333B200B53A58 /* ViewController.swift */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		546352032B86628800C259D0 /* You Are Awesom and Great.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "You Are Awesom and Great.swift"; path = "../../../2.3/You Are Awesom and Great.swift"; sourceTree = "<group>"; };
 		54B927572B8333B200B53A58 /* You are Awesome.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "You are Awesome.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		54B9275A2B8333B200B53A58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		54B9275C2B8333B200B53A58 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,7 +59,6 @@
 				54B9275A2B8333B200B53A58 /* AppDelegate.swift */,
 				54B9275C2B8333B200B53A58 /* SceneDelegate.swift */,
 				54B9275E2B8333B200B53A58 /* ViewController.swift */,
-				546352032B86628800C259D0 /* You Are Awesom and Great.swift */,
 				54B927602B8333B200B53A58 /* Main.storyboard */,
 				54B927632B8333B400B53A58 /* Assets.xcassets */,
 				54B927652B8333B400B53A58 /* LaunchScreen.storyboard */,
@@ -141,7 +138,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				546352042B86628800C259D0 /* You Are Awesom and Great.swift in Sources */,
 				54B9275F2B8333B200B53A58 /* ViewController.swift in Sources */,
 				54B9275B2B8333B200B53A58 /* AppDelegate.swift in Sources */,
 				54B9275D2B8333B200B53A58 /* SceneDelegate.swift in Sources */,
